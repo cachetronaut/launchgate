@@ -2,9 +2,15 @@
 name = "approval-surface"
 version = "0.0.0"
 description = "Pure approval state machine and local pending store/channel for human-in-the-loop agent gates."
+readme = "README.md"
 requires-python = ">=3.11"
 license = { text = "MIT" }
 dependencies = []
+
+[project.urls]
+Homepage = "https://github.com/cachetronaut/approval-surface"
+Repository = "https://github.com/cachetronaut/approval-surface"
+Issues = "https://github.com/cachetronaut/approval-surface/issues"
 
 [build-system]
 requires = ["hatchling"]
