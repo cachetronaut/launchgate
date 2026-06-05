@@ -1,5 +1,10 @@
 # Approval Surface
 
+<p align="center">
+  <img src="docs/assets/logo.png" alt="Approval Surface logo" width="240">
+</p>
+
+
 Pure approval state machine and local pending store/channel for human-in-the-loop agent gates.
 
 Approval Surface is a primitive with TypeScript and Python implementations maintained in one public repository. The shared repo keeps the public contract, fixtures, issues, and release history aligned across languages.
