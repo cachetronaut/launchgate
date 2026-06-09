@@ -3,7 +3,7 @@ revision = 3
 requires-python = ">=3.11"
 
 [[package]]
-name = "approval-surface"
+name = "launchgate"
 version = "0.0.0"
 source = { editable = "." }
 

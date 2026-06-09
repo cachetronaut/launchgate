@@ -1,19 +1,30 @@
-# approval-surface
+---
+status: active
+updated: 2026-06-09
+description: Python package notes for Launchgate.
+keywords:
+  - launchgate
+  - python
+  - approval
+  - human-in-the-loop
+---
 
-Python implementation of Approval Surface.
+# launchgate
 
-For product-level context, shared contracts, and cross-language repository information, see the public repository: https://github.com/cachetronaut/approval-surface.
+Python implementation of Launchgate.
+
+For product-level context, shared contracts, and cross-language repository information, see the public repository: https://github.com/cachetronaut/launchgate.
 
 ## Install
 
 ```sh
-pip install approval-surface
+pip install launchgate
 ```
 
 ## Import
 
 ```python
-import approval_surface
+import launchgate
 ```
 
 ## Development

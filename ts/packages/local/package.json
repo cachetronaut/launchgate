@@ -1,5 +1,5 @@
 {
-  "name": "@approval-surface/local",
+  "name": "@launchgate/local",
   "version": "0.0.0",
   "private": true,
   "description": "Internal: in-memory pending store and recording approval channel.",

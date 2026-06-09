@@ -6,8 +6,8 @@
     "moduleResolution": "Bundler",
     "baseUrl": ".",
     "paths": {
-      "@approval-surface/core": ["packages/core/src/index.ts"],
-      "@approval-surface/local": ["packages/local/src/index.ts"]
+      "@launchgate/core": ["packages/core/src/index.ts"],
+      "@launchgate/local": ["packages/local/src/index.ts"]
     },
     "strict": true,
     "noUncheckedIndexedAccess": true,

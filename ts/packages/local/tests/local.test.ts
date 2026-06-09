@@ -1,4 +1,4 @@
-import { request } from "@approval-surface/core";
+import { request } from "@launchgate/core";
 import { describe, expect, it } from "vitest";
 import { InMemoryPendingStore, RecordingApprovalChannel } from "../src/index";
 
