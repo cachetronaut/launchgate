@@ -1,5 +1,5 @@
 [project]
-name = "approval-surface"
+name = "launchgate"
 version = "0.0.0"
 description = "Pure approval state machine and local pending store/channel for human-in-the-loop agent gates."
 readme = "README.md"
@@ -8,16 +8,16 @@ license = { text = "MIT" }
 dependencies = []
 
 [project.urls]
-Homepage = "https://github.com/cachetronaut/approval-surface"
-Repository = "https://github.com/cachetronaut/approval-surface"
-Issues = "https://github.com/cachetronaut/approval-surface/issues"
+Homepage = "https://github.com/cachetronaut/launchgate"
+Repository = "https://github.com/cachetronaut/launchgate"
+Issues = "https://github.com/cachetronaut/launchgate/issues"
 
 [build-system]
 requires = ["hatchling"]
 build-backend = "hatchling.build"
 
 [tool.hatch.build.targets.wheel]
-packages = ["src/approval_surface"]
+packages = ["src/launchgate"]
 
 [dependency-groups]
 dev = ["pytest>=8", "ruff>=0.6", "ty>=0.0.1a8"]

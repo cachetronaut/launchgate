@@ -1,18 +1,30 @@
-# Approval Surface
+---
+status: active
+updated: 2026-06-09
+description: Public repository overview for Launchgate.
+keywords:
+  - launchgate
+  - approval
+  - human-in-the-loop
+  - typescript
+  - python
+---
+
+# Launchgate
 
 <p align="center">
-  <img src="docs/assets/logo.png" alt="Approval Surface logo" width="240">
+  <img src="docs/assets/logo.png" alt="Launchgate logo" width="240">
 </p>
 
 
 Pure approval state machine and local pending store/channel for human-in-the-loop agent gates.
 
-Approval Surface is a primitive with TypeScript and Python implementations maintained in one public repository. The shared repo keeps the public contract, fixtures, issues, and release history aligned across languages.
+Launchgate is a primitive with TypeScript and Python implementations maintained in one public repository. The shared repo keeps the public contract, fixtures, issues, and release history aligned across languages.
 
 ## Packages
 
-- npm: `approval-surface`
-- PyPI: `approval-surface`
+- npm: `launchgate`
+- PyPI: `launchgate`
 
 ## Repository Layout
 

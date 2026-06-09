@@ -1,4 +1,4 @@
-import type { Approval, ApprovalChannel, PendingStore } from "@approval-surface/core";
+import type { Approval, ApprovalChannel, PendingStore } from "@launchgate/core";
 
 export class InMemoryPendingStore implements PendingStore {
   private readonly approvals = new Map<string, Approval>();

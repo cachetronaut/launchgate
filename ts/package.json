@@ -1,9 +1,9 @@
 {
-  "name": "approval-surface",
+  "name": "launchgate",
   "version": "0.0.0",
   "description": "Pure approval state machine and local pending store/channel for human-in-the-loop agent gates.",
   "keywords": [
-    "approval-surface",
+    "launchgate",
     "human-in-the-loop",
     "approval",
     "pause-resume",
@@ -16,11 +16,11 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cachetronaut/approval-surface.git"
+    "url": "git+https://github.com/cachetronaut/launchgate.git"
   },
-  "homepage": "https://github.com/cachetronaut/approval-surface#readme",
+  "homepage": "https://github.com/cachetronaut/launchgate#readme",
   "bugs": {
-    "url": "https://github.com/cachetronaut/approval-surface/issues"
+    "url": "https://github.com/cachetronaut/launchgate/issues"
   },
   "main": "./dist/index.js",
   "types": "./dist/index.d.ts",

@@ -2,7 +2,7 @@ from __future__ import annotations
 
 import asyncio
 
-from approval_surface import (
+from launchgate import (
     ApprovalSpec,
     InMemoryPendingStore,
     RecordingApprovalChannel,

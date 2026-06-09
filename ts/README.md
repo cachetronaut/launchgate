@@ -1,13 +1,24 @@
-# approval-surface
+---
+status: active
+updated: 2026-06-09
+description: TypeScript package notes for Launchgate.
+keywords:
+  - launchgate
+  - typescript
+  - approval
+  - human-in-the-loop
+---
 
-TypeScript implementation of Approval Surface.
+# launchgate
 
-For product-level context, shared contracts, and cross-language repository information, see the public repository: https://github.com/cachetronaut/approval-surface.
+TypeScript implementation of Launchgate.
+
+For product-level context, shared contracts, and cross-language repository information, see the public repository: https://github.com/cachetronaut/launchgate.
 
 ## Install
 
 ```sh
-npm install approval-surface
+npm install launchgate
 ```
 
 ## Development
